@@ -129,12 +129,13 @@ export default function Home() {
             <div className="about-text">
               <h2>Merahi Mohammed Reda</h2>
               <p>
-                I'm a passionate web developer based in Oran, Algeria. With
-                three years of experience in coding, I've overcome various
-                challenges to grow as a developer. I'm 27 years old, I'm
+                I&apos;m a passionate web developer based in Oran, Algeria. With
+                three years of experience in coding, I&apos;ve overcome various
+                challenges to grow as a developer. I&apos;m 27 years old, and I&apos;m
                 constantly seeking new opportunities to expand my skills and
                 create impactful web solutions.
               </p>
+
               <div className="skills">
                 <span>HTML5</span>
                 <span>CSS3</span>
