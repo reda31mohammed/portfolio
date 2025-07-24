@@ -119,7 +119,7 @@ export default function Home() {
           <div className="about-me">
             <div className="image">
               <Image
-                src="/assets/images/IMG_20250307_005202.jpg"
+                src="/portfolio/assets/images/IMG_20250307_005202.jpg"
                 alt="Reda's Photo"
                 width={200}
                 height={200}
